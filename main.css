@@ -1,0 +1,85 @@
+body{
+    background-color: lightgrey;
+}
+
+
+.container1{
+    width: 101%;
+    height: 100px;
+    background-color: rgba(76, 76, 145,0.95);
+    margin-top: -8px;
+    position: relative;
+    margin-left: -6px;
+    padding: 0 auto;
+}
+
+.container2{
+    width: 80%;
+    height: 400px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 95px;
+}
+
+.tr{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 60px;
+}
+
+.run{
+    padding-top: 40px;
+}
+
+.e{
+    font-size: 55px;
+    color: white;
+    padding-top: 30px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+button{
+    background-color: rgb(17, 245, 112);
+    border: none;
+    border-radius: 4px;
+}
+
+button a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+input[value]{
+    width: 300px;
+}
+
+input[value]:hover{
+    box-shadow: 3px 3px 3px  skyblue;
+}
+
+input{
+    line-height: 30px;
+}
+
+#p1{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#in [value]{
+    color: white;
+    font-size: 23px;
+    background-color: rgba(76, 76, 145,0.95);
+    border: none;
+}
+
+p a{
+    text-decoration: none;
+    color: rgba(76, 76, 145,0.95);
+    font-weight: bold;
+
+}
